@@ -1,8 +1,7 @@
 /* --------------------- BASE STYLES --------------------- */
 body {
   font-family: system-ui, sans-serif;
-  background-image: url("/Queasy Website Main Background Tile.png");
-  background-repeat: repeat;
+  background-color: black;
   color: #111;
   margin: 0;
   padding: 0;
